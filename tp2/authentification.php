@@ -9,6 +9,6 @@ if(isset($_POST["login"]) && isset($_POST["login"])) {
         echo "Veuillez vérifier vos identifiants";
     }
 } else {
-    echo "Veuillez vérifier les champs";
+    echo "Veuillez vérifier les champs ";
 }
 ?>
